@@ -1,1 +1,3 @@
 # Nayan
+
+cd NAYAN1
